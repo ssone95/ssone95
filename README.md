@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @ssone95
-- 👀 I’m interested in .NET development (Blazor, Xamarin, WPF, Maui, ...)
-- 🌱 I’m currently learning to develop applications based on Maui
-- 📫 How to reach me - mail me at nedeljko.savic.c@gmail.com or on LinkedIn
+- 👋 Hi, I’m Nedeljko
+- 👀 I’m highly proficient in Backend .NET development (APIs & other kinds of services), but also have experience in Blazor, Maui, Xamarin, ...
+- ☁︎ Mostly working with Azure Services and other Microsoft-related offerings
+- 🌱 Currently improving my skillset related to GenAI, NLP and Machine Learning
+- 📫 How to reach me - mail me at nedeljko.savic.c@gmail.com or on [LinkedIn](https://www.linkedin.com/in/nedeljko-savic-nssm/)
 
 <!---
 ssone95/ssone95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
